@@ -1,1 +1,1 @@
-print aaaa
+print("This line will be printed.")
